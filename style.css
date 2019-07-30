@@ -1,0 +1,15 @@
+html {
+  background-color: PowderBlue;
+  font-size: 20px;
+}
+
+ul {
+  background: CornflowerBlue;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
+
