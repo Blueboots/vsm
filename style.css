@@ -8,19 +8,8 @@ h1 {
 }
 
 p {
-  column-count: 1;
-  column-width: 24rem;
-  max-width: 24rem
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32em;
+  text-align: justify;
 }
-
-ul {
-  background: CornflowerBlue;
-  padding: 10px;
-  border: 1px solid black;
-}
-
-li {
-  margin-left: 20px;
-}
-
