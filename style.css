@@ -11,6 +11,7 @@ p {
   column-count: 1;
   column-width: 24rem;
   max-width: 24rem
+  text-align: center;
 }
 
 ul {
