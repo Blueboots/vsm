@@ -7,6 +7,10 @@ h1 {
   text-align: center;
 }
 
+p {
+  columns: 18em;
+}
+
 ul {
   background: CornflowerBlue;
   padding: 10px;
