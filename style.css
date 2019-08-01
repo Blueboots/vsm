@@ -8,7 +8,9 @@ h1 {
 }
 
 p {
-  columns: 24em 1;
+  column-count: 1;
+  column-width: 24rem;
+  max-width: 24rem
 }
 
 ul {
