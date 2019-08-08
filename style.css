@@ -1,12 +1,25 @@
 html {
-  background-color: LightCyan;
+  background-color:  #f1f0ed;
   font-size: 20px;
 }
 
+main {
+  margin: 0% 30%;
+  max-width: 750px;
+  min-width: 400px;
+  text-align: justify;
+}
 h1 {
   text-align: center;
 }
 
+figure {
+
+  margin: 4% auto;
+  text-align: center;
+}
+
+/*
 p {
   margin-left: auto;
   margin-right: auto;
