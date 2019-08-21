@@ -1,14 +1,14 @@
 html {
   background-color:  #f1f0ed;
-  font-size: 20px;
+  font-size: 1.3em;
   font-family: sans-serif;
 }
 
 main {
-  margin: 0% 30%;
-  max-width: 750px;
-  min-width: 400px;
+  width: 40vw;
+  margin: 3vh auto;
   text-align: justify;
+  line-height: 1.65;
 }
 
 h1 {
@@ -16,8 +16,9 @@ h1 {
 }
 
 figure {
-
-  margin: 4% auto;
+  max-width: 750px;
+  min-width: 400px;
+  margin: 3vh auto;
   text-align: center;
 }
 
@@ -29,9 +30,7 @@ figure {
   and (max-device-width: 1024px)
   and (-webkit-min-device-pixel-ratio: 1) {
     main {
-      margin: 0% 10%;
-      max-width: 750px;
-      min-width: 400px;
+      width: 70vw;
       text-align: justify;
     }
 }
